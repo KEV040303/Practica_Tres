@@ -37,7 +37,7 @@ function App() {
   return (
     <>
       <header>
-        <img src="../images/logo.svg" alt="SPLITTER" />
+        <img src="./images/logo.svg" alt="SPLITTER" />
       </header>
       <div className="general-wrapper">
         <div className="data-wrapper">
